@@ -11,4 +11,7 @@
 4.Activate the environment by below command:
     conda activate env_name
 
+5.Install the requirements in the activated environment by using below command:
+    pip install -r requirements.txt
+
 
